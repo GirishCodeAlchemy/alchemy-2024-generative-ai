@@ -1,2 +1,3 @@
-# alchemy-template
-Template for github repositories
+# Generative AI
+
+
