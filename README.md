@@ -8,7 +8,13 @@ Create an account in [Huggingface](https://huggingface.co/) and generate the [AP
 
 Add the API token in the .env file `HF_API_KEY`
 
-### 2. Learning
+### 2. Install the packages
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Learning
 
 Look Inside each notebook for examples
 
