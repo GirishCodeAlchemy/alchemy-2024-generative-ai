@@ -10,8 +10,8 @@ Add the API token in the .env file `HF_API_KEY`
 
 ### 2. Learning
 
-Look Inside each notebook for examples
+Look Inside each notebooks for examples
 
-- Text Summarize [Notebook](./text-summarize.ipynb)
-- Text Named entity [Notebook](./text-named-entity.ipynb)
-- Image Captioning [Notebook] (./image-captioning.ipynb)
+- ### Text Summarize [Notebook](./notebooks/text-summarize.ipynb)
+- ### Text Named entity [Notebook](./notebooks/text-named-entity.ipynb)
+- ### Image Captioning [Notebook](./notebooks/image-captioning.ipynb)
