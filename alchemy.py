@@ -21,4 +21,8 @@ class AlchemyAPI:
             headers=headers,
             data=json.dumps(data)
         )
-        return json.loads(response.content.decode("utf-8"))
+        try:
+            response_data = json.loads(response.content.decode("utf-8", errors="ignore"))
+            return response_data
+        except json.JSONDecodeError:
+            return response.content
