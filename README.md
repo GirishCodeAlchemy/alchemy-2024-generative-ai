@@ -29,3 +29,5 @@ Look Inside each notebooks for examples
 - ### Image Captioning [Notebook](./notebooks/image-captioning.ipynb)
 
     <img width="1259" alt="image" src="https://github.com/GirishCodeAlchemy/alchemy-2024-generative-ai/assets/143807663/466e61d0-1fc2-4036-a766-e933a1bf6796">
+
+- ### Image Generating [Notebook](./notebooks/image-generate.ipynb)
